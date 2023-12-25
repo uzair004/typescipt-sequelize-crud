@@ -1,0 +1,2 @@
+# typescipt-sequelize-crud
+ 
